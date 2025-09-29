@@ -34,3 +34,13 @@ python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 
+## Screenshots
+
+### Gesamtkosten pro Monat
+![Gesamtkosten](screenshots/total_cost.png)
+
+### Kostenentwicklung nach Kategorien
+![Kosten nach Kategorien](screenshots/cost_by_category.png)
+
+### Forecast der Gesamtkosten
+![Forecast](screenshots/forecast.png)
